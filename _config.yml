@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: IntrusionJake # the main title
 
-tagline: Notes from a cybersecurity student — college, labs, HTB and certs
+tagline: Cybersecurity Student @ Western Governor's University
 
 description: >- # used by seo meta and the atom feed
   A journal of my cybersecurity journey: college coursework, Hack The Box,
@@ -30,7 +30,7 @@ github:
   username: IntrusionJake
 
 twitter:
-  username: # your X handle, without the @ (the sidebar icon appears once set)
+  username: IntrusionJake
 
 social:
   # Change to your full name.
@@ -41,8 +41,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/IntrusionJake
-    # - https://x.com/your_handle
-    # - https://www.linkedin.com/in/your-profile
+    - https://x.com/IntrusionJake
+    - https://www.linkedin.com/in/jmurray90
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
