@@ -1,0 +1,27 @@
+# Certifications shown on the /certifications/ page.
+#
+# status: earned | in-progress | planned
+# date:   when you earned it (or target date), e.g. 2026-12
+# post:   optional link to a blog post about the exam, e.g. /posts/passing-security-plus/
+# verify: optional Credly / verification URL
+
+- name: CompTIA Security+
+  issuer: CompTIA
+  status: earned
+  date: 2025-05
+  post:
+  verify:
+
+- name: CompTIA A+
+  issuer: CompTIA (via WGU)
+  status: in-progress
+  date:
+  post:
+  verify:
+
+- name: Certified Penetration Testing Specialist (CPTS)
+  issuer: Hack The Box
+  status: planned
+  date:
+  post:
+  verify:

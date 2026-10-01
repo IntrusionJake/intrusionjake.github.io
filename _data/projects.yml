@@ -1,0 +1,19 @@
+# Projects shown on the /projects/ page (enable it in _tabs/projects.md).
+#
+# name:        project name
+# description: one or two sentences: what it is and why it matters
+# tags:        tech / topics, shown as badges
+# status:      optional, e.g. active | complete | archived
+# repo:        optional GitHub URL
+# demo:        optional live demo URL
+# post:        optional write-up post, e.g. /posts/building-my-homelab/
+
+- name: intrusionjake.github.io
+  description: >-
+    This site: a cybersecurity journal built with Jekyll and the Chirpy theme,
+    deployed to GitHub Pages with GitHub Actions.
+  tags: [jekyll, github-actions, markdown]
+  status: active
+  repo: https://github.com/IntrusionJake/intrusionjake.github.io
+  demo:
+  post:
